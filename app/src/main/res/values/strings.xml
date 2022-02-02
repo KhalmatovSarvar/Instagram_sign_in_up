@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Instagram_sign_in_up</string>
+    <string name="don_t_you_have_an_account_sign_up">Don`t you have an account? <b>Sign Up</b></string>
+    <string name="already_have_an_account_sign_up">Already have an account? <b>Sign In</b></string>
+</resources>
